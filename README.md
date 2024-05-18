@@ -1,6 +1,7 @@
 # AutoMorse  
 ## Automatic Morse Code Encoder for Raspberry Pi Pico  
 
+[中文文档在这里](https://github.com/HKEMS-STMO/AutoMorse/blob/main/README_Zh.md)
 AutoMorse is an automatic Morse code encoding library designed for the Raspberry Pi Pico.  
 It can convert the input text message into Morse code and output it through GPIO (you can connect GPIO to other components such as relays to operate the wireless station).  
 This library is intended for radio amateurs and users who need automated Morse code sending functionality, and can also be used for teaching and demonstration.  
