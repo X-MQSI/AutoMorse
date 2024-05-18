@@ -22,9 +22,9 @@ This library is intended for radio amateurs and users who need automated Morse c
 ![image](https://github.com/HKEMS-STMO/Fully-automatic-Morse-coder/assets/118874898/99fde3f8-71eb-467b-ba3f-42141b9199c5)
 
 4. Convert what you want to send into a list and process it using the library:
-```MicroPython
-phrase = list(content) 
-morse.Morse(phrase)
-```  
-![image](https://github.com/HKEMS-STMO/Fully-automatic-Morse-coder/assets/118874898/5f82e961-a204-45eb-82ca-61073a220618)
+  ```MicroPython
+  phrase = list(content) 
+  morse.Morse(phrase)
+  ```  
+  ![image](https://github.com/HKEMS-STMO/Fully-automatic-Morse-coder/assets/118874898/5f82e961-a204-45eb-82ca-61073a220618)
 
